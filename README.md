@@ -10,7 +10,7 @@ O banco de dados inclui tabelas para armazenar informações sobre alunos, profe
 - aluno: armazena informações sobre os alunos da escola.
 - professor: armazena informações sobre os professores da escola.
 - curso: armazena informações sobre os cursos oferecidos pela escola.
-- CursoAluno: estabelece o relacionamento entre os alunos e os cursos que estão matriculados, além de armazenar as notas dos alunos em cada curso.
-- ProfessorEnsina: estabelece o relacionamento entre os professores e os cursos que eles ministram.
+- CursoAluno: Relacionamento entre os alunos e os cursos que estão matriculados, além de armazenar as notas dos alunos em cada curso.
+- ProfessorEnsina: Relacionamento entre os professores e os cursos que eles ensinam.
 
 
